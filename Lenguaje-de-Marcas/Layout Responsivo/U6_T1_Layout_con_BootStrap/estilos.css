@@ -1,0 +1,53 @@
+#cf1{
+    background-color: rgb(37, 54, 18);
+    color: white;
+    padding-left: 3%;
+}
+#cf2{
+    background-color: rgba(204, 147, 25, 0.829);
+}
+#td1{
+    background-color: rgb(37, 54, 18);
+    border-radius: 25px;
+    border-bottom-left-radius: 0%;
+    border-bottom-right-radius: 0%;
+    color: white;
+    padding-left: 3%;
+    padding-top: 3%;
+    padding-right: 3%;
+}
+#td2{
+    background-color: rgb(185, 184, 184);
+    padding-left: 3%;
+}
+#td3{
+    background-color: rgb(185, 184, 184);
+    padding-left: 3%;
+}
+#td4{
+    background-color: rgb(185, 184, 184);
+    padding-left: 3%;
+}
+#td5{
+    background-color: rgb(185, 184, 184);
+    padding-left: 3%;
+    border-radius: 25px;
+    border-top-left-radius: 0%;
+    border-top-right-radius: 0%;
+    
+}
+#img{
+    width: 60%;
+}
+
+@media screen and (min-width: 768px){
+    #img2{
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 1024px){
+    #espacio{
+        padding-left: 20%;
+    }
+}
